@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kavitasmali123@gmail.com**
 
-- 📄 I am [Fresher](Fresher)
+- 📄 Have a look at **https://kavita1998.github.io/Portfolio/**
 
 
 
