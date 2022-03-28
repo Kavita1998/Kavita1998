@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kavita</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate C++ developer from India</h3>
 <p> <img align="right" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="50%" height="auto" margin-right="50px">
   
-- 🔭 I’m currently working on **Calculator using Java**
+- 🔭 I’m currently working in **Incrux Technologies Pvt. Ltd.**
 
 - 🌱 I’m currently persuing **MSc IMCA**
 
