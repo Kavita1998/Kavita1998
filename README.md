@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently persuing **MSc IMCA**
 
-- 👨‍💻 All of my projects are available at [sfsf](sfsf)
+//- 👨‍💻 All of my projects are available at [sfsf](sfsf)
 
 - 📫 How to reach me **kavitasmali123@gmail.com**
 
